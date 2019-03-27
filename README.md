@@ -2,7 +2,7 @@
 
 AWS Config resource property files define the properties and types of the AWS Config resource configuration items (CIs) that are searchable using the `SelectResources` API.  These files ease discovery of searchable properties and allow API users to more accurately craft queries suited for specific resource types.
 
-Documentation for the `SelectResources` API can be found here: [Querying the Current Configuration State of AWS Resource](https://docs.aws.amazon.com/config/latest/developerguide/querying-AWS-resources.html)
+Documentation for the `SelectResources` API can be found here: [Querying the Current Configuration State of AWS Resources](https://docs.aws.amazon.com/config/latest/developerguide/querying-AWS-resources.html)
 
 This repository has the following directory structure:
 
