@@ -37,6 +37,8 @@
   "configuration.renewalSummary.domainValidationOptions.validationMethod": "string",
   "configuration.renewalSummary.domainValidationOptions.validationStatus": "string",
   "configuration.renewalSummary.renewalStatus": "string",
+  "configuration.renewalSummary.renewalStatusReason": "string",
+  "configuration.renewalSummary.updatedAt": "date",
   "configuration.serial": "string",
   "configuration.signatureAlgorithm": "string",
   "configuration.status": "string",

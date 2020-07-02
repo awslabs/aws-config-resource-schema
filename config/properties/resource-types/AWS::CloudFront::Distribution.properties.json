@@ -8,6 +8,8 @@
   "configuration.activeTrustedSigners.items.keyPairIds.items": "string",
   "configuration.activeTrustedSigners.items.keyPairIds.quantity": "integer",
   "configuration.activeTrustedSigners.quantity": "integer",
+  "configuration.aliasICPRecordals.cNAME": "string",
+  "configuration.aliasICPRecordals.iCPRecordalStatus": "string",
   "configuration.arn": "string",
   "configuration.distributionConfig.aliases.items": "string",
   "configuration.distributionConfig.aliases.quantity": "integer",

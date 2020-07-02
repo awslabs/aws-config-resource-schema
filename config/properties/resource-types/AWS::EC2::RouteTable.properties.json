@@ -21,6 +21,7 @@
   "configuration.routes.networkInterfaceId": "string",
   "configuration.routes.origin": "string",
   "configuration.routes.state": "string",
+  "configuration.routes.transitGatewayId": "string",
   "configuration.routes.vpcPeeringConnectionId": "string",
   "configuration.vpcId": "string",
   "configurationItemCaptureTime": "string",

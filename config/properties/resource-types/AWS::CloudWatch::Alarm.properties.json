@@ -23,6 +23,7 @@
   "configuration.period": "integer",
   "configuration.statistic": "string",
   "configuration.threshold": "float",
+  "configuration.thresholdMetricId": "string",
   "configuration.treatMissingData": "string",
   "configuration.unit": "string",
   "configurationItemCaptureTime": "string",
