@@ -17,6 +17,7 @@
   "configuration.pipeline.stages.actions.actionTypeId.version": "string",
   "configuration.pipeline.stages.actions.inputArtifacts.name": "string",
   "configuration.pipeline.stages.actions.name": "string",
+  "configuration.pipeline.stages.actions.namespace": "string",
   "configuration.pipeline.stages.actions.outputArtifacts.name": "string",
   "configuration.pipeline.stages.actions.region": "string",
   "configuration.pipeline.stages.actions.roleArn": "string",

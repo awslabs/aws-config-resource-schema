@@ -4,6 +4,7 @@
   "availabilityZone": "string",
   "awsRegion": "string",
   "configuration.bgpAsn": "string",
+  "configuration.certificateArn": "string",
   "configuration.customerGatewayId": "string",
   "configuration.ipAddress": "ip",
   "configuration.state.value": "string",

@@ -18,6 +18,8 @@
   "configuration.instanceProfileList.roles.roleId": "string",
   "configuration.instanceProfileList.roles.roleName": "string",
   "configuration.path": "string",
+  "configuration.permissionsBoundary.permissionsBoundaryArn": "string",
+  "configuration.permissionsBoundary.permissionsBoundaryType": "string",
   "configuration.roleId": "string",
   "configuration.roleName": "string",
   "configuration.rolePolicyList.policyName": "string",
