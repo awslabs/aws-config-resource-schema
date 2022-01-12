@@ -44,8 +44,8 @@
   "resourceType": "string",
   "supplementaryConfiguration.DBSnapshotAttributes.attributeName": "string",
   "supplementaryConfiguration.DBSnapshotAttributes.attributeValues": "string",
+  "tags.key": "string",
   "tags.tag": "string",
   "tags.value": "string",
-  "tags.key": "string",
   "version": "string"
 }

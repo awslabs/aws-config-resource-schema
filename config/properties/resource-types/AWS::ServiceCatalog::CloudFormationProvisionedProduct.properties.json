@@ -11,6 +11,7 @@
   "configuration.name": "string",
   "configuration.physicalId": "string",
   "configuration.productId": "string",
+  "configuration.productName": "string",
   "configuration.provisioningArtifactId": "string",
   "configuration.status": "string",
   "configuration.statusMessage": "string",
