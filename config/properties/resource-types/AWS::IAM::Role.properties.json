@@ -30,6 +30,7 @@
   "relationships.resourceName": "string",
   "relationships.resourceType": "string",
   "resourceCreationTime": "string",
+  "resourceLastActivity": "string",
   "resourceId": "string",
   "resourceName": "string",
   "resourceType": "string",
