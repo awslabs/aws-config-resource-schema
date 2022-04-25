@@ -13,6 +13,7 @@
   "resourceId": "string",
   "resourceName": "string",
   "resourceType": "string",
+  "supplementaryConfiguration.instanceStatus": "string",
   "tags.key": "string",
   "tags.tag": "string",
   "tags.value": "string",
