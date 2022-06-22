@@ -16,6 +16,7 @@
   "configuration.layers.arn": "string",
   "configuration.layers.codeSize": "integer",
   "configuration.memorySize": "integer",
+  "configuration.packageType": "string",
   "configuration.revisionId": "string",
   "configuration.role": "string",
   "configuration.runtime": "string",

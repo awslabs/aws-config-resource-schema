@@ -1166,6 +1166,7 @@
   "configuration.overallHAState": "string",
   "configuration.ownerAccount": "string",
   "configuration.ownerId": "string",
+  "configuration.packageType": "string",
   "configuration.parameterGroupFamily": "string",
   "configuration.parameterGroupName": "string",
   "configuration.parameters.parameterKey": "string",
