@@ -58,7 +58,7 @@ Assume we want to search for all S3 buckets having tag key `CostCenter`, and tag
 ```
 Then use them to craft the query:
 ```sql
-SELECT resourceId WHERE resourceType='AWS::S3::Bucket' AND awsRegion='ap-northeast-1' AND resourceType LIKE 'quicksilver%' AND tags.tag='CostCenter=12345'
+SELECT resourceId WHERE resourceType='AWS::S3::Bucket' AND awsRegion='ap-northeast-1' AND resourceName LIKE 'quicksilver%' AND tags.tag='CostCenter=12345'
 ```
 
 (Note that the `tags.tag` property is a concatenation of the `tags.key` and `tags.value` properties and makes it possible to search using both tag key and value components simultaneously.  For instance, if `tags.key` has the value `Stage` and `tags.value` has the value `Production`, `tags.tag` will have the value `Stage=Production` (concatenated with an `=` sign).)
