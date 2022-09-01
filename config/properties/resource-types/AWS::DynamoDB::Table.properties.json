@@ -58,6 +58,8 @@
   "configuration.streamSpecification.streamEnabled": "boolean",
   "configuration.streamSpecification.streamViewType": "string",
   "configuration.tableArn": "string",
+  "configuration.tableClassSummary.lastUpdateDateTime": "date",
+  "configuration.tableClassSummary.tableClass": "string",
   "configuration.tableId": "string",
   "configuration.tableName": "string",
   "configuration.tableSizeBytes": "integer",
