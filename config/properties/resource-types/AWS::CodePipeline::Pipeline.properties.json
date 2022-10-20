@@ -22,6 +22,8 @@
   "configuration.pipeline.stages.actions.region": "string",
   "configuration.pipeline.stages.actions.roleArn": "string",
   "configuration.pipeline.stages.actions.runOrder": "integer",
+  "configuration.pipeline.stages.blockers.name": "string",
+  "configuration.pipeline.stages.blockers.type": "string",
   "configuration.pipeline.stages.name": "string",
   "configuration.pipeline.version": "integer",
   "configurationItemCaptureTime": "string",

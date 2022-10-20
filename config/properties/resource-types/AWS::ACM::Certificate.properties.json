@@ -39,6 +39,8 @@
   "configuration.renewalSummary.renewalStatus": "string",
   "configuration.renewalSummary.renewalStatusReason": "string",
   "configuration.renewalSummary.updatedAt": "date",
+  "configuration.revocationReason": "string",
+  "configuration.revokedAt": "date",
   "configuration.serial": "string",
   "configuration.signatureAlgorithm": "string",
   "configuration.status": "string",

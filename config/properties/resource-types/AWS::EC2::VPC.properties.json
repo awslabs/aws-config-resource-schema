@@ -12,6 +12,8 @@
   "configuration.ipv6CidrBlockAssociationSet.associationId": "string",
   "configuration.ipv6CidrBlockAssociationSet.ipv6CidrBlock": "cidr_block",
   "configuration.ipv6CidrBlockAssociationSet.ipv6CidrBlockState.state": "string",
+  "configuration.ipv6CidrBlockAssociationSet.ipv6Pool": "string",
+  "configuration.ipv6CidrBlockAssociationSet.networkBorderGroup": "string",
   "configuration.isDefault": "boolean",
   "configuration.ownerId": "string",
   "configuration.state.value": "string",

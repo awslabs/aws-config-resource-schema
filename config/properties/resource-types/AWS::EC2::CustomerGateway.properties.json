@@ -6,6 +6,7 @@
   "configuration.bgpAsn": "string",
   "configuration.certificateArn": "string",
   "configuration.customerGatewayId": "string",
+  "configuration.deviceName": "string",
   "configuration.ipAddress": "ip",
   "configuration.state.value": "string",
   "configuration.type": "string",
