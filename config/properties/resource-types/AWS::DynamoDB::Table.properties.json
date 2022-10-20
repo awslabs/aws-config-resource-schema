@@ -47,6 +47,8 @@
   "configuration.replicas.regionName": "string",
   "configuration.replicas.replicaStatus": "string",
   "configuration.replicas.replicaStatusDescription": "string",
+  "configuration.replicas.replicaTableClassSummary.lastUpdateDateTime": "date",
+  "configuration.replicas.replicaTableClassSummary.tableClass": "string",
   "configuration.restoreSummary.restoreDateTime": "date",
   "configuration.restoreSummary.restoreInProgress": "boolean",
   "configuration.restoreSummary.sourceBackupArn": "string",

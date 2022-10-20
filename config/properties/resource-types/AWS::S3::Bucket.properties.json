@@ -66,6 +66,7 @@
   "supplementaryConfiguration.PublicAccessBlockConfiguration.restrictPublicBuckets": "boolean",
   "supplementaryConfiguration.ServerSideEncryptionConfiguration.rules.applyServerSideEncryptionByDefault.kmsMasterKeyID": "string",
   "supplementaryConfiguration.ServerSideEncryptionConfiguration.rules.applyServerSideEncryptionByDefault.sseAlgorithm": "string",
+  "supplementaryConfiguration.ServerSideEncryptionConfiguration.rules.bucketKeyEnabled": "boolean",
   "tags.key": "string",
   "tags.tag": "string",
   "tags.value": "string",

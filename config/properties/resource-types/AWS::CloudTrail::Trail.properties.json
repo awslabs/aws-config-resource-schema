@@ -6,6 +6,7 @@
   "configuration.cloudWatchLogsLogGroupArn": "string",
   "configuration.cloudWatchLogsRoleArn": "string",
   "configuration.hasCustomEventSelectors": "boolean",
+  "configuration.hasInsightSelectors": "boolean",
   "configuration.homeRegion": "string",
   "configuration.includeGlobalServiceEvents": "boolean",
   "configuration.isMultiRegionTrail": "boolean",

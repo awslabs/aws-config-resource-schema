@@ -5,6 +5,7 @@
   "awsRegion": "string",
   "configuration.BackupPlanId": "string",
   "configuration.BackupSelection.IamRoleArn": "string",
+  "configuration.BackupSelection.NotResources": "string",
   "configuration.BackupSelection.Resources": "string",
   "configuration.BackupSelection.SelectionName": "string",
   "configuration.SelectionId": "string",

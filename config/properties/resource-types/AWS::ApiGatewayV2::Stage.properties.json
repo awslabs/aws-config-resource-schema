@@ -7,6 +7,7 @@
   "configuration.accessLogSettings.format": "string",
   "configuration.apiGatewayManaged": "boolean",
   "configuration.autoDeploy": "boolean",
+  "configuration.clientCertificateId": "string",
   "configuration.createdDate": "date",
   "configuration.defaultRouteSettings.dataTraceEnabled": "boolean",
   "configuration.defaultRouteSettings.detailedMetricsEnabled": "boolean",
