@@ -16,6 +16,7 @@
   "configuration.elapsedTimeInSeconds": "integer",
   "configuration.encrypted": "boolean",
   "configuration.encryptedWithHSM": "boolean",
+  "configuration.engineFullVersion": "string",
   "configuration.enhancedVpcRouting": "boolean",
   "configuration.estimatedSecondsToCompletion": "integer",
   "configuration.kmsKeyId": "string",

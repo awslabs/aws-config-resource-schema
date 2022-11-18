@@ -10,6 +10,7 @@
   "configuration.alarmDescription": "string",
   "configuration.alarmName": "string",
   "configuration.comparisonOperator": "string",
+  "configuration.creationId": "string",
   "configuration.datapointsToAlarm": "integer",
   "configuration.dimensions.name": "string",
   "configuration.dimensions.value": "string",

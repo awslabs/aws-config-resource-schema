@@ -3,6 +3,7 @@
   "arn": "string",
   "availabilityZone": "string",
   "awsRegion": "string",
+  "configuration.aRN": "string",
   "configuration.addresses": "cidr_block",
   "configuration.description": "string",
   "configuration.iPAddressVersion": "string",

@@ -9,6 +9,7 @@
   "configuration.subnetGroupStatus": "string",
   "configuration.subnets.subnetAvailabilityZone.name": "string",
   "configuration.subnets.subnetIdentifier": "string",
+  "configuration.subnets.subnetOutpost.arn": "string",
   "configuration.subnets.subnetStatus": "string",
   "configuration.vpcId": "string",
   "configurationItemCaptureTime": "string",
