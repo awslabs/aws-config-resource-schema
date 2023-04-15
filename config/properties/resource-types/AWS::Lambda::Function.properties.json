@@ -20,6 +20,7 @@
   "configuration.kmskeyArn": "string",
   "configuration.lastModified": "date",
   "configuration.lastUpdateStatus": "string",
+  "configuration.lastUpdateStatusReasonCode": "string",
   "configuration.layers.arn": "string",
   "configuration.layers.codeSize": "integer",
   "configuration.layers.signingJobArn": "string",

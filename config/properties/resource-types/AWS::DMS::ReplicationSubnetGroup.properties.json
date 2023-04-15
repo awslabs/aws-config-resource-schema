@@ -1,0 +1,23 @@
+{
+  "accountId": "string",
+  "arn": "string",
+  "availabilityZone": "string",
+  "awsRegion": "string",
+  "configuration.Id": "string",
+  "configuration.ReplicationSubnetGroupIdentifier": "string",
+  "configuration.SubnetIds": "string",
+  "configurationItemCaptureTime": "string",
+  "configurationItemStatus": "string",
+  "configurationStateId": "string",
+  "relationships.resourceId": "string",
+  "relationships.resourceName": "string",
+  "relationships.resourceType": "string",
+  "resourceCreationTime": "string",
+  "resourceId": "string",
+  "resourceName": "string",
+  "resourceType": "string",
+  "tags.key": "string",
+  "tags.tag": "string",
+  "tags.value": "string",
+  "version": "string"
+}
