@@ -2589,6 +2589,7 @@
   "configuration.RoleAlias": "string",
   "configuration.RoleAliasArn": "string",
   "configuration.RoleArn": "string",
+  "testing": "string",
   "configuration.Roles.RoleArn": "string",
   "configuration.Roles.RoleType": "string",
   "configuration.RootAccess": "string",
