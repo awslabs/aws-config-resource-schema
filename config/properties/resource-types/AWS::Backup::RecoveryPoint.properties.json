@@ -27,6 +27,7 @@
   "configuration.Status": "string",
   "configuration.StatusMessage": "string",
   "configuration.StorageClass": "string",
+  "configuration.VaultType": "string",
   "configurationItemCaptureTime": "string",
   "configurationItemDeliveryTime": "date",
   "configurationItemStatus": "string",
