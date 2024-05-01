@@ -3,8 +3,6 @@
   "arn": "string",
   "availabilityZone": "string",
   "awsRegion": "string",
-  "configuration.complianceScore.lastUpdatedTime": "date",
-  "configuration.complianceScore.score": "string",
   "configuration.complianceType": "string",
   "configuration.compliantRuleCount": "integer",
   "configuration.configRuleList.complianceType": "string",
