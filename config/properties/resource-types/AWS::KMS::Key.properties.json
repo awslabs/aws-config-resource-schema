@@ -43,6 +43,7 @@
   "resourceName": "string",
   "resourceType": "string",
   "supplementaryConfiguration.KeyRotationStatus": "boolean",
+  "supplementaryConfiguration.Policy": "string",
   "tags.key": "string",
   "tags.tag": "string",
   "tags.value": "string",
