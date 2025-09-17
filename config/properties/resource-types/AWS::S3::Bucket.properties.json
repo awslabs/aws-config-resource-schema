@@ -45,6 +45,7 @@
   "supplementaryConfiguration.BucketLifecycleConfiguration.rules.transitions.storageClass": "string",
   "supplementaryConfiguration.BucketLoggingConfiguration.destinationBucketName": "string",
   "supplementaryConfiguration.BucketLoggingConfiguration.logFilePrefix": "string",
+  "supplementaryConfiguration.BucketPolicy.policyText": "string",
   "supplementaryConfiguration.BucketReplicationConfiguration.roleARN": "string",
   "supplementaryConfiguration.BucketVersioningConfiguration.isMfaDeleteEnabled": "boolean",
   "supplementaryConfiguration.BucketVersioningConfiguration.status": "string",
