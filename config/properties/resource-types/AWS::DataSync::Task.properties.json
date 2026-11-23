@@ -27,7 +27,6 @@
   "configuration.Options.TransferMode": "string",
   "configuration.Options.Uid": "string",
   "configuration.Options.VerifyMode": "string",
-  "configuration.Schedule.ScheduleExpression": "string",
   "configuration.SourceLocationArn": "string",
   "configuration.SourceNetworkInterfaceArns": "string",
   "configuration.Status": "string",

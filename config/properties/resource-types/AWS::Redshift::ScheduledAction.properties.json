@@ -7,7 +7,6 @@
   "configuration.EndTime": "date",
   "configuration.IamRole": "string",
   "configuration.NextInvocations": "date",
-  "configuration.Schedule": "string",
   "configuration.ScheduledActionName": "string",
   "configuration.StartTime": "date",
   "configuration.State": "string",
